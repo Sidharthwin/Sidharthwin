@@ -21,7 +21,7 @@ Trying to learn new things every day | Coding Enthusiast | Learning AI & Advance
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sidharthwin/Sidharthwin/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SidharthxNST/SidharthxNST/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ Trying to learn new things every day | Coding Enthusiast | Learning AI & Advance
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidharthwin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SidharthxNST&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -37,5 +37,5 @@ Trying to learn new things every day | Coding Enthusiast | Learning AI & Advance
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidharthwin&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidharthxNST&theme=react-dark&hide_border=true&area=true" />
 </p>
